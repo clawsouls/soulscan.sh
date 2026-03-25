@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://soulscan.sh/sitemap.xml
